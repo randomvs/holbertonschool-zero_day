@@ -1,2 +1,1 @@
-0) A virtual machine emulates a computer system, based on the same structure as a physical one
-2) # holbertonschool-zero_day
+The purpose of this project is to learn how to understand and use a virtual machine, create and modify file using emacs, and learn about vi.
